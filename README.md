@@ -1,13 +1,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there ! 
 ### I'm [Md. Shahriar Alam Shaon](https://www.facebook.com/sadjoker.localhost) !
 ---
-### Let's know about me 😁
-<ul>
-<li>I am a Muslim from, Bangladesh. 🇧🇩</li>
-<li>I am a student of Medical Science at, <a href="https://en.m.wikipedia.org/wiki/Chandpur_Medical_College">Chandpur Medical College</a>.</li>
-<li>I am a noob programmer.</li>
-<li>I love cats.</li>
-</ul>
+### Some words about me 😁
+- I am a Muslim from, Bangladesh. 🇧🇩
+- I am a student of Medical Science at, <a href="https://en.m.wikipedia.org/wiki/Chandpur_Medical_College">Chandpur Medical College</a>.
+- I am a noob programmer.
+- I love cats.
+- Afraid of fake friends.
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet you more !</b> 😃 
