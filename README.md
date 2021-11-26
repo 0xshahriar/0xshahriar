@@ -21,7 +21,7 @@
 <a href= https://github.com/0xshahriar?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet you more !</b> 😃 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet more !</b> 😃 
 
 📫 Here is my social media links by which you can contact me directly,
 
