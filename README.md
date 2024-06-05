@@ -30,7 +30,7 @@ I'm Md. Shahriar Alam Shaon
 
 ---
 ### My latest github metrics
-![Metrics](https://metrics.lecoq.io/0xshahriar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/0xshahriar?template=classic&config.timezone=Asia%2FDhaka)
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet more !</b> 😃 
