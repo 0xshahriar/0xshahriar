@@ -35,7 +35,7 @@ I'm Md. Shahriar Alam Shaon
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet more !</b> 😃 
 
-📫 Here is my social media links by which you can contact me directly,
+📫 Here is my contact links,
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xshahriar?style=social&logoColor=blue)](https://www.twitter.com/0xshahriar)
 [![Linkedin Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xshahriar/)](https://www.linkedin.com/in/0xshahriar/)
@@ -47,3 +47,6 @@ I'm Md. Shahriar Alam Shaon
 [![Website Badge](https://img.shields.io/badge/-0xshahriar.blogspot.com-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://0xshahriar.blogspot.com)](http://www.0xshahriar.blogspot.com/)
 [![HackerOne Badge](https://img.shields.io/badge/-Hackerone-black?style=flat-square&logo=Hackerone&logoColor=white&link=https://www.hackerone.com/0xshahriar)](https://www.hackerone.com/0xshahriar)
 [![Bugcrowd Badge](https://img.shields.io/badge/-Bugcrowd-peru?style=flat-square&logo=Bugcrowd&logoColor=white&link=https://www.bugcrowd.com/0xshahriar)](https://www.bugcrowd.com/0xshahriar)
+
+### Before you leave here is a joke for you,
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%"/>
