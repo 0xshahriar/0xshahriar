@@ -12,7 +12,7 @@ I'm Md. Shahriar Alam Shaon
 <a href="https://github.com/0xshahriar?tab=repositories"><img src="https://img.shields.io/github/stars/0xshahriar?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-### Some words about me 😁
+## Some words about me 😁
 - I am a Muslim from, Bangladesh. 🇧🇩
 - I am a student of Medical Science at, <a href="https://en.m.wikipedia.org/wiki/Chandpur_Medical_College">Chandpur Medical College</a>.
 - I am a noob programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">.
@@ -29,13 +29,13 @@ I'm Md. Shahriar Alam Shaon
 <a href= https://github.com/0xshahriar?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 
 ---
-### My latest github metrics
+## My latest github metrics
 ![Metrics](https://metrics.lecoq.io/0xshahriar?template=classic&config.timezone=Asia%2FDhaka)
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet more !</b> 😃 
 
-📫 Here is my contact links,
+### 📫 Here is my contact links,
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xshahriar?style=social&logoColor=blue)](https://www.twitter.com/0xshahriar)
 [![Linkedin Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xshahriar/)](https://www.linkedin.com/in/0xshahriar/)
