@@ -41,7 +41,7 @@ I'm Md. Shahriar Alam Shaon
 [![Linkedin Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xshahriar/)](https://www.linkedin.com/in/0xshahriar/)
 [![Instagram Badge](https://img.shields.io/badge/-0xshahriar-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0xshahriar/)](https://www.instagram.com/0xshahriar/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sadjoker.localhost@gmail.com)](mailto:sadjoker.localhost@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/official0xshahriar)](https://www.facebook.com/official0xshahriar)
+[![Facebook Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/0xshahriar)](https://www.facebook.com/0xshahriar)
 [![Medium Badge](https://img.shields.io/badge/-0xshahriar-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@0xshahriar)](https://medium.com/@0xshahriar)
 [![Telegram Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@ShahriarAlam0x1)](https://t.me/@ShahriarAlam0x1)
 [![Website Badge](https://img.shields.io/badge/-0xshahriar.blogspot.com-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://0xshahriar.blogspot.com)](http://www.0xshahriar.blogspot.com/)
