@@ -43,7 +43,7 @@ I'm Md. Shahriar Alam Shaon
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sadjoker.localhost@gmail.com)](mailto:sadjoker.localhost@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/official0xshahriar)](https://www.facebook.com/official0xshahriar)
 [![Medium Badge](https://img.shields.io/badge/-0xshahriar-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@0xshahriar)](https://medium.com/@0xshahriar)
-[![Telegram Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@ShahriarAlam0x1)](https://telegram.org/@ShahriarAlam0x1)
+[![Telegram Badge](https://img.shields.io/badge/-0xshahriar-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@ShahriarAlam0x1)](https://t.me/@ShahriarAlam0x1)
 [![Website Badge](https://img.shields.io/badge/-0xshahriar.blogspot.com-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://0xshahriar.blogspot.com)](http://www.0xshahriar.blogspot.com/)
 [![HackerOne Badge](https://img.shields.io/badge/-Hackerone-black?style=flat-square&logo=Hackerone&logoColor=white&link=https://www.hackerone.com/0xshahriar)](https://hackerone.com/0xshahriar)
 [![Bugcrowd Badge](https://img.shields.io/badge/-Bugcrowd-peru?style=flat-square&logo=Bugcrowd&logoColor=white&link=https://www.bugcrowd.com/0xshahriar)](https://www.bugcrowd.com/0xshahriar)
