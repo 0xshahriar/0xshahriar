@@ -33,7 +33,7 @@ I'm Md. Shahriar Alam Shaon
 ![Metrics](https://metrics.lecoq.io/0xshahriar?template=classic&config.timezone=Asia%2FDhaka)
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet more !</b> 😃 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different peoples around the whole world</b>. So if you want to say hi, <b>I'll be happy to meet you !</b> 😃 
 
 ### 📫 Here is my contact links,
 
